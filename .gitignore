@@ -4,7 +4,7 @@ __pycache__/
 .env
 .ipynb_checkpoints/
 data/raw/
-data/processed/
+#data/processed/
 #models/
 .DS_Store
 *.sqlite3
